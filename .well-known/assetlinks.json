@@ -3,8 +3,10 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "PACKAGE_NAME_은_나중에_채워요",
-      "sha256_cert_fingerprints": ["SHA256_지문은_나중에_채워요"]
+      "package_name": "io.github.leeeh12101_stack.courtmanager",
+      "sha256_cert_fingerprints": [
+        "87:F8:24:BE:C8:5F:2F:E4:8F:DA:4C:E3:A5:63:C2:95:5B:46:6D:DD:74:49:84:BC:90:2B:AA:3F:5B:3E:A0:6D"
+      ]
     }
   }
 ]

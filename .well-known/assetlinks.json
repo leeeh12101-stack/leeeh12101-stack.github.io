@@ -5,6 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.leeeh12101_stack.courtmanager",
       "sha256_cert_fingerprints": [
+        "4F:BD:AA:E6:97:69:BA:AE:56:44:71:CE:CC:1D:0B:35:32:FA:91:85:3A:ED:5F:E4:8E:C0:40:E3:13:22:CE:5E",
+        "FA:4B:AC:14:BE:2B:A3:7B:80:FF:73:85:30:79:E9:78:E4:5D:1E:B3:8D:BC:B8:63:9E:DD:27:11:45:02:BA:00",
         "87:F8:24:BE:C8:5F:2F:E4:8F:DA:4C:E3:A5:63:C2:95:5B:46:6D:DD:74:49:84:BC:90:2B:AA:3F:5B:3E:A0:6D"
       ]
     }
